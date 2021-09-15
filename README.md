@@ -16,13 +16,13 @@ CTRL - *Sätt dig på huk*
 ALT + CTRL - *Lägg dig ner på marken, Shift för att ändra mellan mage/rygg, om du trycker samtidigt som du springer slänger du dig ner på backen á la delfindyk*  
 Caps Lock - *Få upp menyn för animationer & böter/fakturor*  
 ALT – *Knapp för användning av interaktioner (Ex. Låsa fordon)*  
-DELETE - *Jobbmenyn, gäller samtliga jobb*  
+INSERT - Gängmenyn
 K - *Menyn för att ta på/av kläder*  
 M - *Ta upp mobiltelefonen*  
 X - *Håll upp båda händerna i luften*  
 Z - *Inventory*  
 B - *För att peka*  
-Shift + H - *Ändra pratläge (viska, normal, skrik)*  
+U - *Ändra pratläge (viska, normal, skrik)*  
 Pageup - *Ramla ihop/ragdoll*  
 Pagedown - *Använd om folk inte ser dig när du är medvetslös*  
 Shift + E - *Sätta sig ner på bänkar/stolar, fungerar enbart på vissa items*  
@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v= __Yh0Uxf4pKpo__ *= Du skriver in slutet på lä
 /closeallui - *Om menyer fastnar*  
 /spawnmenu - *Skapa/byt karaktär*  
 /shuff - *Byt från passagerarsäte till förarsäte i fordon*  
-/status - *Se skadeinformation och stressnivå. (Måste skrivas för att se skada)*   
+/status - *Se skadeinformation (Måste skrivas för att se skada)*   
 /kpedchange 1 - *Ändra ped/spawnar du osynlig välj "byt till din vanliga gubbe"*  
 /die - *Gör din karaktär medvetslös*  
 /keklove - *RPnulla*  
