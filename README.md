@@ -1,59 +1,122 @@
 # Förnuftberget Roleplay
-### Hej och välkommen till Förnuftberget!   
+## Hej och välkommen till Förnuftberget!       
+&nbsp;
+
+Du har fått whitelist hos oss för att vi ser en stor potential i dig som rollspelare. Här förväntas du leva dig 
+in i din karaktär och samtidigt leverera toppklassigt skapande. 
+ 
+
+Du ska nu ha fått tillgång till både servern och hela Discorden, mer info om detta nedan 
+
+&nbsp;
+ 
+### Fadder
+Detta är självklart frivilligt, men en ypperlig möjlighet för dig att få en maxad upplevelse din första tid på 
+servern.   
+Faddern är en väletablerad karaktär som styr upp en guidad tur för en mindre grupp nya spelare. Här får 
+du upptäcka serverns guldkorn, skapa nya bekantskaper och samtidigt få mer inblick i serverns olika 
+funktioner. 
+ 
+
+Om du vill ha en fadder behöver du göra en ticket i vår Discord. Leta dig till Ticketkategorin, där skapar 
+du den specifika ticketen för just fadder. 
+
+&nbsp;
+ 
 ### Portalen
-Här loggar du in med steam eller discord och sätter dig i kö, när det är din tur får du upp en “ansluta” knapp som du trycker på, då startas FiveM automatiskt. Du har 2 minuter på dig att ansluta när det har blivit din tur, annars kastas du ut ur kön och får köa på nytt. Samma sak gäller när du re-loggar, vi har en 2 minuters grace-period 
- &nbsp;
+För att komma åt portalen, https://portal.fbrp.se/ , behöver du logga in med din Steam eller Discord. 
+ 
+
+Portalen används för att ansluta till servern. Du går med i kön, väntar på din tur för att sedan trycka på 
+**ANSLUT** så startas FiveM automatiskt. Du har två minuter på dig att ansluta när det blivit din tur, 
+annars kastas du ut ur kön och får köa på nytt.  
+Samma sak gäller när du re-loggar. 
+
+&nbsp;
 ### Discord
-Det är obligatoriskt att vara med i våran discord-server. Här hittar du all information du behöver och även kanaler för vissa yrken på servern. Det är väldigt viktigt att läsa igenom kanalen *#regler* och att alltid hålla koll på vad som skrivs i *#!viktigt*  
-Behöver du hjälp eller har frågor så finns __Ticket - Support__ eller *#member-help* - här får du snabbast svar av andra spelare på servern när det gäller allt från support till vanliga frågor.   
-__Tickets__ - Du kan skapa en ticket genom att reagera på meddelandet i rätt ticket-kanal, här får du hjälp och kan ställa frågor till oss i staff men även utvecklare. Det är inte tillåtet att PMa utvecklare, du ska inte heller PMa oss i staff med saker som du lika gärna hade kunnat ta i en ticket. Självklart är det okej om du vill vara anonym eller om det gäller privata saker.
- &nbsp;
-### Ljud
-För att sätta upp ljud rätt så finns det en guide under *#setup-ljud-grafik* i discord
- &nbsp;
-#### Keybinds:
-CTRL - *Sätt dig på huk*  
-ALT + CTRL - *Lägg dig ner på marken, Shift för att ändra mellan mage/rygg, om du trycker samtidigt som du springer slänger du dig ner på backen á la delfindyk*  
-Caps Lock - *Få upp menyn för animationer & böter/fakturor*  
-ALT – *Knapp för användning av interaktioner (Ex. Låsa fordon)*  
-INSERT - Gängmenyn
-K - *Menyn för att ta på/av kläder*  
-M - *Ta upp mobiltelefonen*  
-X - *Håll upp båda händerna i luften*  
-Z - *Inventory*  
-B - *För att peka*  
-U - *Ändra pratläge (viska, normal, skrik)*  
-Pageup - *Ramla ihop/ragdoll*  
-Pagedown - *Använd om folk inte ser dig när du är medvetslös*  
-Shift + E - *Sätta sig ner på bänkar/stolar, fungerar enbart på vissa items*  
-Shift + G - *Tackla någon*  
 
-#### TV:
-/tv = *Sätter på TVn*  
-/volym (1-100) - *Varje person väljer sin egna volym på TVn, välj mellan 1-100*  
-/visa __Yh0Uxf4pKpo__  
-*Exempel på TV:*  
-https://www.youtube.com/watch?v= __Yh0Uxf4pKpo__ *= Du skriver in slutet på länken efter /visa (se fetstil)*  
+Det är obligatoriskt att vara med i vår Discord-server. Här kommuniceras all information du kan tänkas behöva veta för att hålla dig up to date.   
+Ny information som du som spelare måste veta skrivs ut i **#!Viktigt** 
+ 
+Du har även en *#member-help* i Discord - här får du snabbast svar av andra spelare på servern när det 
+gäller allt från support till vanliga frågor. 
+Behöver du hjälp med något som endast staff eller utvecklare kan hjälpa dig med så finns 
+Ticketsystemet. Exempel följer nedan.
 
-#### Commands:
-/report - *Skriv en kort report till staff*  
-/reload - *Reloada inventoryt*  
-/closeallui - *Om menyer fastnar*  
-/spawnmenu - *Skapa/byt karaktär*  
-/shuff - *Byt från passagerarsäte till förarsäte i fordon*  
-/status - *Se skadeinformation (Måste skrivas för att se skada)*   
-/kpedchange 1 - *Ändra ped/spawnar du osynlig välj "byt till din vanliga gubbe"*  
-/die - *Gör din karaktär medvetslös*  
-/keklove - *RPnulla*  
-/kekkiss - *Fråga närmsta person om den vill kyssa dig*  
-/kekhug - *Fråga närmsta person om en kram*  
-/kekhug2 - *Fråga närmsta person om en riktig kram*  
-/kekfart - *Lägg en fis*  
-/kekburp - *Rapa*  
-/hook - *Ge personen framför dig en snyting*  
-/kekslap - *Ge personen framför dig en lavett*  
-/skalla - *Skalla personen framför dig*  
-/cig - *Få en cigarrett i munnen*  
-/cigar - *Få en cigarr i munnen*  
-/kissa - *Kissa*  
-/bajsa - *Bajsa*  
+#### 1. Här väljer du kategori för din ticket. Vi tar support som exempel i detta fall** 
+
+![N|FBRP](https://i.imgur.com/G0Dou79.png) 
+
+#### 2. Välj kategori och tryck på "Create ticket"
+
+![N|FBRP](https://i.imgur.com/I63zEkh.png) 
+
+#### 3. Här dyker din ticket upp. Skriv ditt ärende i den så får du hjälp inom kort
+
+![N|FBRP](https://i.imgur.com/fPRGaOh.png) 
+
+ &nbsp;
+ 
+ ## Keybinds
+
+| Bind | Förklaring | 
+| :----------: | -------------- |
+| **M** | Ta upp mobiltelefonen<br />*Använd backspace för att lägga ner den* |
+| **Z** | Inventory |
+| **B** | Peka |
+| **K** | Meny för att ta på/av kläder |
+| **CAPS** | Få upp menyn för animationer, ekonomi, handlingar, färdigheter och ev. polis |
+| **CTRL** | Smyg hukandes<br />*Gå ett steg framåt för att detta ska funka* |
+| **ALT + CTRL** | Kryp liggandes<br />*Gör detta medan du springer för att "dyka" ner på marken*<br />*Shift för att ändra mellan mage/rygg* |
+| **ALT** | Knapp för användning av interaktioner (Ex. Låsa fordon)<br />*Håll in ALT för att få upp crosshair. När crosshairet blir grönt högerklickar du för att se vilka interaktioner som finns* |
+| **X** | Håll upp båda händerna i luften<br />*Detta behövs göras om din motspelare vill se/komma åt ditt inventory* |
+| **U**| Ändra voice range och interagera med övervakningskamera<br />*Voice rangen kommer visas med en cirkel runt karaktären för att visa hur långt din röst når*  |
+| **F** | Sätt dig i närmsta bil |
+| **Pageup** | Ramla ihop aka ragdoll<br />*Gör detta om din karaktär t.ex. är skadad* |
+| **Pagedown** | Ramla ihop aka ragdoll<br />*Gör detta om din karaktär t.ex. är skadad* |
+| **Shift + E** | Sätta sig ner i bänkar/stolar |
+| **Shift + G** | Tackla någon |
+| **CTRL + M** | Få upp polisradarn i polisbil |
+
+&nbsp;
+
+## Commands - Tryck T för att få upp skrivfältet
+
+| Command | Förklaring |
+| :----------: | -------------- |
+| **/report** | Skriv en kort report till staff |
+| **/reload** | Reloada inventoryt om det inte fungerar som det ska |
+| **/closeallui** | Om menyer fastnar trots att du trycker ner dom |
+| **/spawnmenu** | Skapa/byt karaktär |
+| **/me** | Visa ett uttryck, skador m.m |
+| **/stickyme** | Som /me men den försvinner ej |
+| **/stickytext** | Lägg ut en text på t.ex marken med beskrivning |
+| **/die** | Gör din karaktär medvetslös | 
+| **/kekkiss** | Fråga närmsta person om en puss | 
+| **/kekhug** | Fråga närmsta person om en kram | 
+| **/kekhug2** | Fråga närmsta person om en nära kram | 
+| **/hook** | Ge personen framför dig en snyting |
+| **/kekslap** | Ge personen framför dig en lavett |
+| **/skalla** | Skalla personen framför dig | 
+| **/shuff** | Byt från passagerarsäte till förarsäte i fordon |
+| **/status** | Se skadeinformation (Måste skrivas för att se skada) |
+| **/kpedchange 1** | Ändra ped/spawnar du osynlig välj "byt till din vanliga gubbe"|
+| **/kekfart** | Lägg en fis |
+| **/kekburp** | Rapa | 
+| **/cig** | Få en cigarrett i munnen<br />Gör samma command för att få bort den igen |
+| **/cigar** | Få en cigarr i munnen<br />Gör samma command för att få bort den igen |
+| **/kissa** | Kissa |
+| **/bajsa** |  Bajsa |
+
+### TV - Används för att visa Youtube-klipp
+Sök efter youtubeklippet du vill visa, kopiera sedan den fetstilade delen av länken. 
+https://www.youtube.com/watch?v= **bBYoRpCs-J8** 
+
+/tv - Sätt på TVn 
+
+/volym (1-100) - Välj volym mellan 1-100. 
+Varje person i samma rum som TVn väljer sin egen volym 
+
+/visa **bBYoRpCs-J8**
+
+
