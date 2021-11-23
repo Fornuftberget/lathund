@@ -43,7 +43,7 @@ gäller allt från support till vanliga frågor.
 Behöver du hjälp med något som endast staff eller utvecklare kan hjälpa dig med så finns 
 Ticketsystemet. Exempel följer nedan.
 
-#### 1. Här väljer du kategori för din ticket. Vi tar support som exempel i detta fall** 
+#### 1. Här väljer du kategori för din ticket. Vi tar support som exempel i detta fall 
 
 ![N|FBRP](https://i.imgur.com/G0Dou79.png) 
 
