@@ -108,6 +108,7 @@ Ticketsystemet. Exempel följer nedan.
 | **/cigar** | Få en cigarr i munnen<br />Gör samma command för att få bort den igen |
 | **/kissa** | Kissa |
 | **/bajsa** |  Bajsa |
+| **/sb** | Få upp soundboard för att spela upp olika ljudeffekter
 
 ### TV - Används för att visa Youtube-klipp
 Sök efter youtubeklippet du vill visa, kopiera sedan den fetstilade delen av länken. 
