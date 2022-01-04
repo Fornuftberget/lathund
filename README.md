@@ -109,6 +109,7 @@ Ticketsystemet. Exempel följer nedan.
 | **/kissa** | Kissa |
 | **/bajsa** |  Bajsa |
 | **/sb** | Få upp soundboard för att spela upp olika ljudeffekter
+| **/maskoff** | Ta av dig en mask
 
 ### TV - Används för att visa Youtube-klipp
 Sök efter youtubeklippet du vill visa, kopiera sedan den fetstilade delen av länken. 
