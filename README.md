@@ -122,4 +122,8 @@ Varje person i samma rum som TVn väljer sin egen volym
 
 /visa **bBYoRpCs-J8**
 
+### Skriva ut bilder
+För att skriva ut en bild åker du till foto-blippen på kartan. Den heter framkallning av bilder, där skriver du **/generatePicture** och sen bildadress. 
+För att få fram rätt bildadress är det enklast att ladda upp en bild i discord, högerklicka och kopiera bildadress.
+
 
