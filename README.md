@@ -91,7 +91,7 @@ Ticketsystemet. Exempel följer nedan.
 | **/spawnmenu** | Skapa/byt karaktär |
 | **/me** | Visa ett uttryck, skador m.m |
 | **/stickyme** | Som /me men den försvinner ej |
-| **/stickytext** | Lägg ut en text på t.ex marken med beskrivning |
+| **/stickytext** | Lägg ut en text på t.ex marken med beskrivning<br />*Skriv stickytext create/handle/remove* |
 | **/die** | Gör din karaktär medvetslös | 
 | **/kekkiss** | Fråga närmsta person om en puss | 
 | **/kekhug** | Fråga närmsta person om en kram | 
