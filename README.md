@@ -110,6 +110,7 @@ Ticketsystemet. Exempel följer nedan.
 | **/bajsa** |  Bajsa |
 | **/sb** | Få upp soundboard för att spela upp olika ljudeffekter
 | **/maskoff** | Ta av dig en mask
+| **/openconfig** | Öppna meny för UI
 
 ### TV - Används för att visa Youtube-klipp
 Sök efter youtubeklippet du vill visa, kopiera sedan den fetstilade delen av länken. 
