@@ -72,7 +72,7 @@ Ticketsystemet. Exempel följer nedan.
 | **X** | Håll upp båda händerna i luften<br />*Detta behövs göras om din motspelare vill se/komma åt ditt inventory* |
 | **U**| Interagera med övervakningskamera |
 | **F** | Sätt dig i närmsta bil |
-| **Pageup** | Ramla ihop aka ragdoll<br />*Gör detta om din karaktär t.ex. är skadad* |
+| **´** | Ramla ihop aka ragdoll<br />*Gör detta om din karaktär t.ex. är skadad* |
 | **+** | Använd om du är medvetlös och spelare inte ser dig |
 | **Shift + H** | Ändra voice range <br />*Voice rangen kommer visas med en cirkel runt karaktären för att visa hur långt din röst når* 
 | **Shift + E** | Sätta sig ner i bänkar/stolar |
