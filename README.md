@@ -114,15 +114,9 @@ Ticketsystemet. Exempel följer nedan.
 | **/openconfig** | Öppna meny för UI
 
 ### TV - Används för att visa Youtube-klipp
+Använd ALT + musklick på en TV för att starta den.  
 Sök efter youtubeklippet du vill visa, kopiera sedan den fetstilade delen av länken. 
 https://www.youtube.com/watch?v= **bBYoRpCs-J8** 
-
-/tv - Sätt på TVn 
-
-/volym (1-100) - Välj volym mellan 1-100. 
-Varje person i samma rum som TVn väljer sin egen volym 
-
-/visa **bBYoRpCs-J8**
 
 ### Skriva ut bilder
 För att skriva ut en bild åker du till foto-blippen på kartan. Den heter framkallning av bilder, där skriver du **/generatePicture** och sen bildadress. 
