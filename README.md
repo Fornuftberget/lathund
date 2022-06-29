@@ -115,6 +115,7 @@ Ticketsystemet. Exempel följer nedan.
 
 ### TV - Används för att visa Youtube-klipp
 Använd ALT + musklick på en TV för att starta den.  
+Skriv /mute för att stänga av/på allt ljud ifrån TV apparater.  
 Sök efter youtubeklippet du vill visa, kopiera sedan den fetstilade delen av länken. 
 https://www.youtube.com/watch?v= **bBYoRpCs-J8** 
 
