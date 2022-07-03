@@ -113,6 +113,7 @@ Ticketsystemet. Exempel följer nedan.
 | **/sb** | Få upp soundboard för att spela upp olika ljudeffekter
 | **/maskoff** | Ta av dig en mask
 | **/openconfig** | Öppna meny för UI
+| **/twtc** | Tweeta från ett företag
 
 ### TV - Används för att visa Youtube-klipp
 Använd ALT + musklick på en TV för att starta den.  
