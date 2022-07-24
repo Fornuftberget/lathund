@@ -65,7 +65,8 @@ Ticketsystemet. Exempel följer nedan.
 | **Z** | Inventory |
 | **B** | Peka |
 | **K** | Meny för att ta på/av kläder |
-| **CAPS** | Få upp menyn för animationer, ekonomi, handlingar, färdigheter och ev. polis |
+| **L** | Animationsmeny
+| **CAPS** | Få upp menyn för ekonomi, handlingar, färdigheter och ev. polis |
 | **CTRL** | Smyg hukandes<br />*Gå ett steg framåt för att detta ska funka* |
 | **ALT + CTRL** | Kryp liggandes<br />*Gör detta medan du springer för att "dyka" ner på marken*<br />*Shift för att ändra mellan mage/rygg* |
 | **ALT** | Knapp för användning av interaktioner (Ex. Låsa fordon)<br />*Håll in ALT för att få upp crosshair. När crosshairet blir grönt högerklickar du för att se vilka interaktioner som finns* |
