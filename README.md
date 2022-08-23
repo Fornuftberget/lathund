@@ -115,6 +115,7 @@ Ticketsystemet. Exempel följer nedan.
 | **/maskoff** | Ta av dig en mask
 | **/openconfig** | Öppna meny för UI
 | **/twtc** | Tweeta från ett företag
+| **/clearslot [ID]** | Fixa en trasig ruta i inventoryt (om items försvinner när du lägger dem där) Hovra med muspekaren över rutan för att få [ID]
 
 ### TV - Används för att visa Youtube-klipp
 Använd ALT + musklick på en TV för att starta den.  
