@@ -80,7 +80,7 @@ Ticketsystemet. Exempel följer nedan.
 | **Shift + E** | Sätta sig ner i bänkar/stolar |
 | **Shift + G** | Tackla någon |
 | **CTRL + M** | Få upp polisradarn i polisbil |
-| **F11** | För att binda valfritt command till F11 skriver du i F8: bind keyboard F11 "kekslap" <br />*Fungerar med alla /commands, t.ex /me, /kekslap, /sb
+| **F11** | För att binda valfritt command till F11 skriver du i F8: bind KEYBOARD F11 "kekslap" <br />*Fungerar med alla /commands, t.ex /me, /kekslap, /sb
 
 &nbsp;
 
