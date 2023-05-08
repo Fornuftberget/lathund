@@ -24,7 +24,7 @@ du den specifika ticketen för just fadder.
 &nbsp;
  
 ### Portalen
-För att komma åt portalen, https://portal.fbrp.se/ , behöver du logga in med din Steam eller Discord. 
+För att komma åt portalen, https://portal.fornuftberget.se/ , behöver du logga in med din Steam eller Discord. 
  
 
 Portalen används för att ansluta till servern. Du går med i kön, väntar på din tur för att sedan trycka på 
